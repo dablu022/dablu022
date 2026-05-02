@@ -1,4 +1,5 @@
 #About Me:
+
 B.Tech Computer Science student with a strong interest in software development and problem-solving. Experienced in building full-stack and AI-powered applications using React, Node.js, and MySQL. Currently focused on Data Structures & Algorithms, backend development, and system design to build scalable and efficient systems.
 
 ---
