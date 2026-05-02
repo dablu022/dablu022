@@ -10,7 +10,7 @@ B.Tech Computer Science student with a strong interest in software development a
 ---
 
 ## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/dablu022)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dablu-022)
 
 ---
 
