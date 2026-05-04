@@ -4,7 +4,7 @@ B.Tech Computer Science student with a strong interest in software development a
 
 ---
 
-## 🌐 Socials:
+## 🌐Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dablu-kumar-483b88302/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/dablu-022/)
 
